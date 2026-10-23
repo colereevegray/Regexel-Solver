@@ -1,0 +1,4 @@
+cradle:
+  multi:
+    - path: "./"
+      config: { cradle: { direct: { arguments: ["-i."] } } }
